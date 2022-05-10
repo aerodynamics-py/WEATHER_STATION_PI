@@ -5,8 +5,8 @@ from news import *
 from display import *
 import json
 
-lat = "47.2108023"
-lon = "-1.5596322"
+lat = "47.2"
+lon = "-1.5"
 api_key_weather = ""
 api_key_news = ""
 debug = 0
